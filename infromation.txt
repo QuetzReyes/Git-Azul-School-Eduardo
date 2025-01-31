@@ -1,2 +1,6 @@
 Hola, me llamo Eduardoy tengo 31 años
+<<<<<<< HEAD
 #Azul School es la onda
+=======
+Trabajo en un refugio de animales
+>>>>>>> header
